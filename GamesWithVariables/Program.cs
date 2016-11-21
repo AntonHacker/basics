@@ -13,6 +13,7 @@ namespace GamesWithVariables
         static void Main(string[] args) // это точка входа. точка входа есть всегда!
         {
 
+            // Если не выводится русский - зайти в Консоль - Свойства и выбрать шрифт Consolas
             Console.OutputEncoding = Encoding.UTF8;
             Console.InputEncoding = Encoding.UTF8;
 
